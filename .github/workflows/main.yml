@@ -19,7 +19,7 @@ on: # Workflow triggers on both when a commit is pushed, or when a pull request 
 env:
     HAXE_VERSION: 4.3.7
     HXCPP_COMPILE_CACHE: ${{ github.workspace }}/.hxcpp_cache
-    LIME_HASH: 6421de16b9dfa4fb55c19f12db65d392a57585c8
+    LIME_HASH: 64baef6b8ed16da455530326f8e8d6d0ce6f7e3a
 
 
 jobs: # FUCK MY LIFE BROOOOO
